@@ -10,5 +10,5 @@ Automatically start all microservices locally through simple executable scripts.
 Below are screenshots demonstrating the UI flows and Session Storage functionality:
 
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/3c43873a-8d31-4721-a5bd-f649539e89bd" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/3f84c851-7037-4064-9f64-f166d703ca29" />
 <img width="959" height="535" alt="image" src="https://github.com/user-attachments/assets/a86dca4e-a422-4e12-bf56-5d210152f43b" />
